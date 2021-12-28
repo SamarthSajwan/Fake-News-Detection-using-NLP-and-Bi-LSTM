@@ -1,0 +1,2 @@
+# Fake-News-Detection-using-NLP-and-Bi-LSTM
+The increasing number of fake news online is a danger for societies and governments as has been already probed. Moreover, the yearly increasing number of hoaxes and the emergence of artificial intelligence trained to generate texts denote the need for strong systems oriented to discriminate the deceptions. The goal was to create a proficient and relevant model to correctly detect these fake news and hoaxes.
